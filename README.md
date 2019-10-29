@@ -1,2 +1,2 @@
-# signal-analysis-dft
+# fourier-transform
 Digital Signal Processing, lab #3
